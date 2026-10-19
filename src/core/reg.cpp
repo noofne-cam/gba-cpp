@@ -1,7 +1,8 @@
 #include <cstdint>
 #include <array>
+#include <memory>
 
-#include ""
+#include "mode.h"
 
 using std::size_t;
 
